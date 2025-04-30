@@ -1,3 +1,4 @@
+
 # QR Code Generator
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
@@ -6,17 +7,9 @@
 ![Google ZXing](https://img.shields.io/badge/Google%20ZXing-3.5.2-blue)
 ![Docker](https://img.shields.io/badge/Docker-✓-blue)
 ![Maven](https://img.shields.io/badge/Maven-3.9.6-red)
-
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ArthurB95/qrcode?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ArthurB95/qrcode">
-  
-  <a href="https://github.com/ArthurB95/qrcode/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ArthurB95/qrcode">
-  </a>
-    
-</p>
+![GitHub language count](https://img.shields.io/github/languages/count/ArthurB95/qrcode?color=%2304D361)
+![Repository size](https://img.shields.io/github/repo-size/ArthurB95/qrcode)
+![GitHub last commit](https://img.shields.io/github/last-commit/ArthurB95/qrcode)
 
 A Spring Boot application that generates QR codes and stores them in AWS S3. This project demonstrates the integration of Google's ZXing library for QR code generation and AWS S3 for storage.
 
